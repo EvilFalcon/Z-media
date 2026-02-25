@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32e0c0173a654054bb01f285874dc58b, type: 3}
+  m_Name: BattleSimSettings
+  m_EditorClassIdentifier: 
+  _gameSettings: {fileID: 11400000, guid: 656d70b8979ec224a8ed3281537f9378, type: 2}
+  _unitBaseStats: {fileID: 11400000, guid: f0f45c57275a40d4fafe98cdb9f4561e, type: 2}
+  _formModifiers: {fileID: 11400000, guid: fc104c81ee52ed34aa47060df7e4c5ea, type: 2}
+  _sizeModifiers: {fileID: 11400000, guid: 3404e5d790b49924284a1ee550cec6bd, type: 2}
+  _colorModifiers: {fileID: 11400000, guid: a59a1bbe5bf31b74e96102a1753c5cb7, type: 2}
+  _unitAppearance: {fileID: 11400000, guid: b948583d36773c64bb730311ee57b302, type: 2}
+  _unitPrefabs: {fileID: 11400000, guid: 73f013e950be8d34db8054114ea32a39, type: 2}
+  _combatSettings: {fileID: 11400000, guid: a1b2c3d4e5f60718293a4b5c6d7e8f90, type: 2}
